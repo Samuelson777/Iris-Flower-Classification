@@ -41,6 +41,9 @@ The model achieved an accuracy of 100.00% on the test dataset. The confusion mat
 ## Conclusion
 The Iris Flower Classification project demonstrates the process of data exploration, visualization, and building a machine learning model. This project can be further enhanced by experimenting with different algorithms, hyperparameter tuning, and additional visualizations.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Iris-Flower-Classification/blob/main/LICENSE) file for details.
+
 ## Installation
 To run this project, you need to have Python installed along with the required libraries. You can install the necessary libraries using pip:
 
